@@ -1,0 +1,3 @@
+[submodule "basic-authentication-template"]
+    path = basic-authentication-template
+    url = "https://github.com/prathamesh-88/basic-authentication-template"
