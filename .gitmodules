@@ -1,3 +1,6 @@
-[submodule "basic-authentication-template"]
-    path = basic-authentication-template
-    url = "https://github.com/prathamesh-88/basic-authentication-template"
+[submodule "basic-authentication"]
+    path = basic-authentication
+    url = "https://github.com/prathamesh-88/basic-authentication"
+[submodule "express-session-authentication"]
+	path = express-session-authentication
+	url = "https://github.com/prathamesh-88/express-session-authentication"
