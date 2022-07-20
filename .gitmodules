@@ -4,3 +4,6 @@
 [submodule "express-session-authentication"]
 	path = express-session-authentication
 	url = "https://github.com/prathamesh-88/express-session-authentication"
+[submodule "express-session-with-redis"]
+	path = express-session-with-redis
+	url = "https://github.com/prathamesh-88/express-session-with-redis.git"
